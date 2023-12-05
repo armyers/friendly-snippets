@@ -522,6 +522,10 @@
             {
                 "language": "dune",
                 "path": "./snippets/ocaml/dune.json"
+            },
+            {
+                "language": "terraform",
+                "path": "./snippets/terraform.json"
             }
         ]
     }
